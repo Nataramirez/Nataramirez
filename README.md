@@ -4,11 +4,12 @@
 <p> 👀 Después de desempeñarme en diversas áreas de empresas de producción y manufactura :bar_chart: :triangular_ruler:  :file_folder:, inicio el camino como desarrollador web :blossom: :hibiscus: :sunflower:, encontrando en este campo motivación para el aprendizaje constante, crecimiento profesional, personal y de comunidad :ok_hand::ok_hand::ok_hand:</p>
 
 <h3>🌱  Actualmente continúo aprendiendo  Javascript, NodeJs, Express,  PostgreSQL, Sequelize,  React, Redux,  HTML y CSS </h3>
-- 
-- 📫 Puedes contactarme en:  
+![Banner de LinkedIn Tecnología Negro (3)](https://user-images.githubusercontent.com/83674618/137839325-1951d8b7-d925-40b1-bd68-bb63582485f0.png)
+<h4>
+- 📫 Puedes contactarme en:  </h4><p>
         📱 Móvil: (57) 3043433638      
         📧 Correo electrónico: nramirezlievano@gmail.com          
-        🔗 Linkedin: www.linkedin.com/in/natalia-ramirez-97161b207   
+        🔗 Linkedin: www.linkedin.com/in/natalia-ramirez-97161b207  </p> 
 
 
 
