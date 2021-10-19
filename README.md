@@ -1,6 +1,6 @@
 
 ![Banner de LinkedIn Tecnología Negro (1)](https://user-images.githubusercontent.com/83674618/136483253-fb794b11-78f9-4a94-946e-816f879049d8.png)
-<img src='![pngegg (13)](https://user-images.githubusercontent.com/83674618/137832105-d5e2e3a2-08af-42d7-81eb-346c2f4fe538.png)'  />
+<img src=![pngegg (13)](https://user-images.githubusercontent.com/83674618/137832105-d5e2e3a2-08af-42d7-81eb-346c2f4fe538.png) />
 ***Hola***
 
 
